@@ -1,5 +1,5 @@
 # Igor Aniskevich
-## Project manager / Java Script front-end developer - 
+## Project manager / Java Script front-end developer 
 #### Belarus, Minsk
 ********
 ### Contacts:
@@ -54,6 +54,7 @@ _**My responsibilities included:**_
 * market analysis, organization, and evaluation of the effectiveness of actions to promote products;\
 * product promotion to the retail market, interaction with retail and pharmacy chains;\
 * participation in tenders, preparation of the necessary documents, reporting.
+
 ************************
 #### "Suffiks" Ltd, Director / Chief Accountant
 ##### June 2015 - August 2019
@@ -64,6 +65,7 @@ _**My responsibilities included:**_
 * interaction with clients, negotiation, the conclusion of contracts;
 * creation, promotion, and management of the enterprise website;
 * control of primary accounting documentation, reporting.
+
 ******************
 #### JSC "Technobank", Executive Director, https://tb.by
 ##### August 2003 – April 2007
@@ -73,6 +75,7 @@ _**My responsibilities included:**_
 * management, support, and control of a part of construction projects;
 * advertising and promotion of banking, projecting, and building products;
 * analysis of the effectiveness of the assigned departments, reporting.
+
 *************
 #### Representative office of "Nellant Energy SA", Switzerland, Head of Representative Office
 ##### April 1997 — August 2003
@@ -81,6 +84,7 @@ _**My responsibilities included:**_
 * formation of a team, setting and monitoring the implementation of tasks by subordinates;
 * participation in negotiations with partners and contractors, the conclusion of contracts;
 * control of finance, accounting, preparation of reports, including in English according to international standards.
+
 ************************
 ### Education
 

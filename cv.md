@@ -114,5 +114,4 @@ _**Engineer of electronic means, (1981 - 1986)**_
     
 
 ### Languages
-
 * English - B2 - Intermediate

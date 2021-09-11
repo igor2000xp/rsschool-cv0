@@ -76,7 +76,8 @@ _**My responsibilities included:**_
 ************************
 ### Education
 
-* Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Moscow now called: "The Russian Presidential Academy of National Economy and Public Administration (RANEPA) © РАНХиГС  
+* Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Moscow \
+now called: "The Russian Presidential Academy of National Economy and Public Administration (RANEPA) © РАНХиГС  
 https://www.ranepa.ru/ Moscow  
 _**Management, Advisor, (1998)**_
 

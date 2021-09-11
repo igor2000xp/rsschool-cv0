@@ -29,16 +29,14 @@ __I love writing programming code and I want to be perfect in Javascript and Fro
 * Creative
 ________________
 ### Samples
-```
+```JavaScript
 document.write("You came from "+document.referrer+"</br>");
 document.write("Your browser is: "+navigator.appName+"</br>");
 document.write("Codename core your browser: "+navigator.appCodeName+"</br>");
 document.write("Version: "+navigator.appVersion+"</br>")
 document.write("User-agent header:</br>");
 document.write(""+navigator.userAgent+"</br>");
-
-
-Here you can try to find out your IP address again.
+document.write("Here you can try to find out your IP address again.");
 ```
 *********
 

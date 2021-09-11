@@ -2,7 +2,7 @@
 ## Project manager / Java Script front-end developer - 
 #### Belarus, Minsk
 ********
-### Contacts
+### Contacts:
 GitHub: https://github.com/igor2000xp \
 Mobile: +375-33-341-78-51\
 e-mail: igorring@gmail.com
@@ -73,16 +73,16 @@ _**My responsibilities included:**_
 * formation of a team, setting and monitoring the implementation of tasks by subordinates;
 * participation in negotiations with partners and contractors, the conclusion of contracts;
 * control of finance, accounting, preparation of reports, including in English according to international standards.
-
+************************
 ### Education
 
 * Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Moscow now called: "The Russian Presidential Academy of National Economy and Public Administration (RANEPA) © РАНХиГС  
 https://www.ranepa.ru/ Moscow  
-> Management, Advisor, (1998)
-* International Institute of Management, Belarus,\
-> Marketing, Foreign Economic Activity Manager, (1991 - 1992)
+_**Management, Advisor, (1998)**_
+* International Institute of Management, Minsk, Belarus,\
+_**Marketing, Foreign Economic Activity Manager, (1991 - 1992)**_
 * MVIZRU, Minsk,\
-> Engineer of electronic means, (1981 - 1986)
+_**Engineer of electronic means, (1981 - 1986)**_
 
 #### Courses:
 * School "Dragon-English" (March 2021)

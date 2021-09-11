@@ -79,8 +79,12 @@ _**My responsibilities included:**_
 * Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Moscow now called: "The Russian Presidential Academy of National Economy and Public Administration (RANEPA) © РАНХиГС  
 https://www.ranepa.ru/ Moscow  
 _**Management, Advisor, (1998)**_
+
+
 * International Institute of Management, Minsk, Belarus,\
 _**Marketing, Foreign Economic Activity Manager, (1991 - 1992)**_
+
+
 * MVIZRU, Minsk,\
 _**Engineer of electronic means, (1981 - 1986)**_
 

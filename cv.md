@@ -3,7 +3,7 @@
 #### Belarus, Minsk
 ********
 ### Contacts:
-GitHub: https://github.com/igor2000xp \
+GitHub: [https://github.com/igor2000xp](https://github.com/igor2000xp) \
 Mobile: +375-33-341-78-51\
 e-mail: igorring@gmail.com\
 [CV on Linked-n](https://www.linkedin.com/in/igor-aniskevich-7a6b9745/)
@@ -22,6 +22,7 @@ __I love writing programming code and I want to be perfect in Javascript and Fro
 * Java, JavaScript (in progress)
 * Git, Photoshop,
 * VS Code, IntelliJ IDEA, Eclipse, Sublime.
+
 ### Soft skills
 * Purposeful
 * Team leader

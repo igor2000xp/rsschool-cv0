@@ -56,6 +56,7 @@ _**My responsibilities included:**_
 * participation in tenders, preparation of the necessary documents, reporting.
 
 ************************
+
 #### "Suffiks" Ltd, Director / Chief Accountant
 ##### June 2015 - August 2019
 _**My responsibilities included:**_
@@ -67,6 +68,7 @@ _**My responsibilities included:**_
 * control of primary accounting documentation, reporting.
 
 ******************
+
 #### JSC "Technobank", Executive Director, https://tb.by
 ##### August 2003 – April 2007
 _**My responsibilities included:**_
@@ -77,6 +79,7 @@ _**My responsibilities included:**_
 * analysis of the effectiveness of the assigned departments, reporting.
 
 *************
+
 #### Representative office of "Nellant Energy SA", Switzerland, Head of Representative Office
 ##### April 1997 — August 2003
 _**My responsibilities included:**_
@@ -86,6 +89,7 @@ _**My responsibilities included:**_
 * control of finance, accounting, preparation of reports, including in English according to international standards.
 
 ************************
+
 ### Education
 
 * Russian Academy of National Economy and Public Administration under the President of the Russian Federation, Moscow \

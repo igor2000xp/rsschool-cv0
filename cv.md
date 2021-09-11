@@ -27,8 +27,10 @@ __I love writing programming code and I want to be perfect in Javascript and Fro
 * Purposeful
 * Team leader
 * Very communicative
-* Creative
+* Very creative
+
 ________________
+
 ### Samples
 ```JavaScript
 document.write("You came from "+document.referrer+"</br>");

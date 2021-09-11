@@ -29,9 +29,7 @@ __I love writing programming code and I want to be perfect in Javascript and Fro
 * Very communicative
 * Very creative
 
-***********
-
-### Samples
+### Code Samples
 ```JavaScript
 document.write("You came from "+document.referrer+"</br>");
 document.write("Your browser is: "+navigator.appName+"</br>");
@@ -42,6 +40,8 @@ document.write(""+navigator.userAgent+"</br>");
 document.write("Here you can try to find out your IP address again.");
 ```
 *********
+
+*****
 
 ### My experience
 

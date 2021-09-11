@@ -29,7 +29,7 @@ __I love writing programming code and I want to be perfect in Javascript and Fro
 * Very communicative
 * Very creative
 
-________________
+***********
 
 ### Samples
 ```JavaScript
